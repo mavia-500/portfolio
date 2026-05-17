@@ -12,6 +12,7 @@ const Introduction = () => {
     Crafting modern, scalable web applications with the power of the MERN stack.<br className="hidden md:block" />
     From responsive frontends to robust backends — let’s build something impactful together.
   </motion.div>
+  
 </div>
 
 );
