@@ -29,7 +29,16 @@ const Projects = () => {
       link: "https://www.itsolutionsworldwide.com/en",
       image: "/images/itww2010.webp",
     },
+
     {
+      title: "Taxi Booking Site in Netherland",
+      description:
+        "Developed a responsive taxi booking website using Next.js and Tailwind CSS with modern UI, smooth navigation, and optimized user experience for online ride services.",
+      link: "https://taxinet-sooty.vercel.app/",
+      image: "/images/taxinet.webp",
+    },
+    
+    { 
       title: "Modern Furniture E-Commerce Website",
       description:
         "website showcasing products with a clean UI, smooth navigation, and user-friendly shopping experience.",
